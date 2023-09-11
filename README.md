@@ -1,5 +1,6 @@
 # telegraf-installer
-A simple script that allows to install / update telegraf watch out windows only (for now).
+A simple script that allows to install / update telegraf
+watch out windows only (for now)
 
 ## Usage
 ```bash
